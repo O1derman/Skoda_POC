@@ -1,0 +1,20 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center">
+
+    <AutoCompleteTextView
+        android:id="@+id/autoComplete"
+        android:layout_width="1100px"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#000000"
+        android:drawableLeft="@drawable/ic_search_black_24dp"
+        android:ems="10"
+        android:imeOptions="actionSearch"
+        android:inputType="textAutoComplete|textAutoCorrect"
+        android:textColor="#FFFFFF">
+
+        <requestFocus />
+    </AutoCompleteTextView>
+
+</LinearLayout>

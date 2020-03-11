@@ -1,0 +1,290 @@
+_id,name,address,tripadvisor_id
+1,Kafe Pragovka,"Kolbenova 923/34a, Prague 190 00 Czech Republic",18719427
+2,Perfect Canteen,"Podebradska 55, Prague Czech Republic",4768313
+3,Jidelna Tesla,"Podebradska 56, Prague Czech Republic",4768316
+4,Pivarna U Klauna,"Pod Harfou 68, Prague 190 00 Czech Republic",12511809
+5,Radegastovna Kolbenka,"Kolbenova 16, Prague 19000 Czech Republic",13224877
+6,Violete,"Pod Harfou, 938/40, Prague Czech Republic",7124292
+7,Raj syru Nova Harfa,"Pod Harfou 995/23, Prague 190 00 Czech Republic",19589841
+8,Vinarna U Sebestiana,"Kolbenova 760/10, Prague 190 00 Czech Republic",5048750
+9,AntiCafe Dobry Dum,"Pod pekarnami 245/10 On the corner, Prague 19000 Czech Republic",17605733
+10,Anticafe,"Pod pekarnami 245/10 On the corner, Prague 19000 Czech Republic",7793828
+11,S'Chuan,"Pod Pekarnami, 152/5, Prague Czech Republic",7124282
+12,Rang De Basanti. Indian Restaurant,"Narodnich hrdinu 28 Dolni Pocernice, Prague 190 12 Czech Republic",7682064
+13,Cesky Statek,"Stara Obec, 7, Prague Czech Republic",7123317
+14,Leta pane,"Narodnich hrdinu 3, Prague 190 12 Czech Republic",1063129
+15,Dolni Pocernice,"Narodnich hrdinu 3, Prague 190 12 Czech Republic",6835557
+16,Pocernicky Pivovar,"Narodnich hrdinu 3, Dolni Pocernice 190 12 Czech Republic",11796846
+17,Pocernicka Zahradka,"Hrabachovska 448 entry from Ceskobrodska, Dolni Pocernice 190 12 Czech Republic",10465142
+18,Pizzerie Al Mulino,"Narodnich hrdinu 3 Dolni Pocernice, Prague 190 12 Czech Republic",4092920
+19,Hotel Svornost-Restaurant,"Novozamecka 284, Prague 190 12 Czech Republic",1494550
+20,Restaurace Na Kempu,"Narodnich Hrdinu 290, Prague Czech Republic",7109216
+21,Black Bridge Kebab,"Mansfeldova 802/6, Prague 19800 Czech Republic",18850292
+22,Restaurant Black Bridge,"Narodnich hrdinu 891, Prague 190 12 Czech Republic",4768506
+23,Pupek Sveta,"Nakupni, 389/3, Prague Czech Republic",7123777
+24,KFC Sterboholy,"Nakupni, 389/3, Prague Czech Republic",4768592
+25,Barbalon,"Nakupni, 389/3, Prague Czech Republic",7123641
+26,KFC,"Nakupni centrum Eden 2, Prague Czech Republic",11801838
+27,Zariva Perla,"Nakupni 389/3 Shopping mall Europark, Prague 102 00 Czech Republic",7383773
+28,Pizzeria Golosona,"Nakupni 389/3 Obchodni centrum Europark, Prague 102 00 Czech Republic",14004389
+29,Interspar,"Nakupni, Prague Czech Republic",7123430
+30,Daily Coffee,"Prumyslova, Prague Czech Republic",7124295
+31,Costa Coffee,"Zamenhofova 440 Fashion Arena, Prague 108 00 Czech Republic",12929056
+32,McDonald's,"Prumyslova, 614/30, Prague Czech Republic",7124323
+33,SK Viktoria Sterboholy-Restaurace,"Ustredni 26A, Prague Czech Republic",7710840
+34,StErba,"Ustredni 289/26a, Prague Czech Republic",15218975
+35,Smetanova Cukrarna,"Kutnohorska, 371/51, Prague Czech Republic",7123665
+36,Country Saloon,"Kutnohorska, 69, Prague Czech Republic",7123338
+37,Cafe 22 Creperie,"Nove namesti 1370/11, Prague 104 00 Czech Republic",4768501
+38,Mr. Pham,"Trampotova 69/8, Prague Czech Republic",12876589
+39,Skolni Jidelna,"Nove Namesti, 1100/1, Prague Czech Republic",7123655
+40,Verka,"Kresinska, 131/8, Prague Czech Republic",7124194
+41,Restaurace Na Lisce,"Pratelstvi 59/115, Prague Czech Republic",4768289
+42,Ha Long Restaurant,"Pratelstvi 1300, Prague 108 00 Czech Republic",12624523
+43,Jidelna Pizza Sroubek,"Namesti Protifasistickych Bojovniku 102, Prague Czech Republic",4768574
+44,Pivovarska Restaurant,"K Sokolovne 38, Prague 104 00 Czech Republic",5048723
+45,Rychety,"K Dalnici, Prague Czech Republic",7123734
+46,U Splavu,"U Nadymace, 200/37, Prague Czech Republic",7123720
+47,Bombay Express,"Roztylska 2321/19 Westfield Chodov, Grand Kitchen 2. p./2nd floor, Prague 148 00 Czech Republic",12423074
+48,bistRAWveg,"Roztylska 2321/19 Centrum Chodov, Prague 14800 Czech Republic",12995004
+49,Potrefena Husa,"Roztylska 2321/19, Prague 14800 Czech Republic",14151349
+50,Thai Thai,"Roztylska 2321/19, Prague 14800 Czech Republic",13433281
+51,Detaillo,"Roztylska 2321/19, Prague 148 00 Czech Republic",8058701
+52,Burger King,"Roztylska 2321/19, Prague Czech Republic",7123772
+53,Mondieu - Chodov,"Roztylska 2321/19 Centrum Chodov, Prague 14800 Czech Republic",13316353
+54,KOBE Fusion Restaurant Centrum Chodov,"Roztylska 2321/19, Prague 148 00 Czech Republic",7123483
+55,Makakiko Running Sushi,"Roztylska 2321/19 Centrum Chodov, Prague 148 00 Czech Republic",14134029
+56,Spicymama Chodov,"Roztylska 232/19, Prague 14800 Czech Republic",18543410
+57,Hajja Caffe Chodov,"Roztylska 2321/19, Prague 14800 Czech Republic",14158005
+58,The PUB Praha 11,"Roztylska 2321/19 Obchodní centrum Chodov, stanice metra C CHodov, Prague 14800 Czech Republic",13455352
+59,Wafl cafe,"Roztylska 19, Prague 14200 Czech Republic",13280369
+60,Tom's Burger,"Roztylska 2321/19, Prague 14800 Czech Republic",13197442
+61,Andiamo Ristorante,"Roztylska 232/19 OC Chodov Praha, Prague 148 00 Czech Republic",13402050
+62,McDonald's,"Roztylska, 2321/19 OC Chodov, Prague 140 00 Czech Republic",7124340
+63,Veganland - Chodov,"Roztylska 2321, Prague 14800 Czech Republic",19713421
+64,Vapiano Chodov,"Roztylska 2321/19, Prague 148 00 Czech Republic",13085951
+65,Paneria,"V Parku, 2336/22, Prague Czech Republic",7124461
+66,Food Garden the Park,"V Parku, 2294/2, Prague Czech Republic",7123381
+67,The Park Bistro,"V Parku, 2309/6, Prague Czech Republic",7246455
+68,Bowling Bar Chodov,"Hraskeho 25, Prague Czech Republic",4769259
+69,Dr. Baguette,"Kloknerova, Prague Czech Republic",7123359
+70,Na Sadce,"Starochodovska 1360/78, Prague 149 00 Czech Republic",12999215
+71,Pizzeria Majak,"Krejnicka 1/2021, Prague 148 00 Czech Republic",7705806
+72,KFC Prague Gate,"Tuerkova 2317/5, Prague 149 00 Czech Republic",4767808
+73,Restaurace Klub Skolka,"Hrabakova 2001/21, Prague 149 00 Czech Republic",10815462
+74,Kacovska restaurace Na RychtE,"Starochodovska 72/5 Pension Na Rychtě, Prague 149 00 Czech Republic",4768028
+75,MB Food,"Daimlerova 2296/2, Prague 149 00 Czech Republic",4769469
+76,Pivovar Spojovna,"U Kunratickeho Lesa 1801, Prague 14800 Czech Republic",14072445
+77,Di Carlo - Seberov,"K Hrnchirum 96 149 00 Praha 11 - Šeberov, Prague 149 00 Czech Republic",4209799
+78,Restaurant Garden Chodov,"Valentova 1726/6, Prague 14900 Czech Republic",11815263
+79,U Papezu,"Starochodovska 28, Prague 149 00 Czech Republic",4768031
+80,U Drozda,"Nad Opatovem, 2140/2, Prague Czech Republic",7123722
+81,XL Restaurant Grill & Bar,"Klecandova 2380/1 Praha 11, Prague 149 00 Czech Republic",10179249
+82,Na Terase,"Brandlova, 1639/6, Prague Czech Republic",7123540
+83,Ledo,"Dunovskeho, 668/8, Prague Czech Republic",7123981
+84,Spring Praha,"Malebna, 1061/11, Prague Czech Republic",7124124
+85,Restaurace Na Rychte,"Starochodovska, 529/5, Prague Czech Republic",7123529
+86,Mezi domy,"Krejpskeho 1502/8, Prague 14900 Czech Republic",13111916
+87,Ru Yang Lou,"Krejpskeho, 1530/4, Prague Czech Republic",7124077
+88,Hospoda 213,"Krejpskeho 1752/2, Prague 14900 Czech Republic",14894803
+89,Pizza Grande,"Krejpskeho 2276/6a, Prague 14900 Czech Republic",14139596
+90,Cafebar Tandem,"Opatovska, 1753/12, Prague Czech Republic",7124236
+91,U Barunky,"Donovalska, 2222/31, Prague Czech Republic",7123355
+92,Free solo,"Donovalska 1662, Prague Czech Republic",4769432
+93,FreeSolo,"Donovalska, 1662/38, Prague Czech Republic",7123376
+94,jihomestsky pivovar,"Podjavorinske 1602/11, Prague 149 00 Czech Republic",2413532
+95,Curry Masala,"Volkovova 633/28, Prague 14900 Czech Republic",11535840
+96,Restaurace a kavarna Opatovske terasy,"Opatovska 1754/14, Prague 14900 Czech Republic",13185587
+97,Subway,"V parku 2336/22, Prague 148 00 Czech Republic",7124448
+98,U Bouzku,"Matuskova 831/1, Prague Czech Republic",4768800
+99,U Havrana,"Kubistova 1a, Prague Czech Republic",4769024
+100,Pc Coffee & Grill,"Antala Staska, 34, Prague Czech Republic",7123548
+101,Xin Fu Gui,"Antala Staska, 327/16, Prague Czech Republic",7123843
+102,Na Ledarnach,"Tocita, 274/46, Prague Czech Republic",7124450
+103,Hospoda Trefa,"Jeremenkova 1835/106, Prague 140 00 Czech Republic",7687448
+104,Za Skolou,"Nad Zemankou 3, Prague Czech Republic",4768617
+105,Vladar,"Na Dvorcich 144/9, Prague 140 00 Czech Republic",4768689
+106,Rybarna,"Na Dvorcich 184/3, Prague Czech Republic",4768661
+107,La Casata,"Na Strzi 343/5, Prague 140 00 Czech Republic",4570813
+108,Aldo Pizzerie,"Na strzhi 343/5, Prague 140 00 Czech Republic",1092987
+109,Mattes restaurace,"Na Strzi 9, Prague 140 00 Czech Republic",4768698
+110,Pizza Finezza,"Branicka 706/18 Praha 4, Prague 147 00 Czech Republic",8604650
+111,Cafe Empiria,"Na Strzi, 1702/65, Prague Czech Republic",7123291
+112,Restaurace Na Pekarce,"Pod Pekarkou 224/46, Prague 140 00 Czech Republic",4769725
+113,Na Pul Cesty,"Pujmanove, 35A, Prague Czech Republic",7123399
+114,U Cejpu,"U Strze, 1/150, Prague Czech Republic",7123706
+115,Food Garden Budejovicka,"Olbrachtova, 62, Prague Czech Republic",7123210
+116,Kfc,"Olbrachtova, 1929/62, Prague Czech Republic",7124250
+117,U Stareho pivovaru,"Branicka 213/53, Prague 140 00 Czech Republic",5414763
+118,Mezzo,"Milevska, 7, Prague Czech Republic",7124415
+119,Pizza Margherita,"Dvorecka 3 ., Prague 14000 Czech Republic",5536159
+120,Touch of India Restaurant & Bar,"Antala Staska 34, Prague 14000 Czech Republic",15133084
+121,Restaurace Olympie,"Pujmanove 1218, Prague Czech Republic",4768272
+122,Peking,"Pujmanove 10, Prague Czech Republic",6104381
+123,ABC,"Za mlynem 1774/12 Branik, Prague 147 00 Czech Republic",4767515
+124,U Baby,"V podhaji 523/30, Prague 147 00 Czech Republic",7687452
+125,Greenline,"Zeleny Pruh, 50, Prague Czech Republic",7123458
+126,Kuta,"Zeleny Pruh, 95/97, Prague Czech Republic",7124536
+127,Gelatiamo CZ,"Zeleny pruh, 1560/99, Prague Czech Republic",10126735
+128,Artima,"Nad Lavkou, 5, Prague Czech Republic",7246384
+129,Sarka,"Nad Lavkou, 5/672, Prague Czech Republic",7123640
+130,La spigola,"V. Kolkovac 7, Prague Czech Republic",3588914
+131,U Reznika,"V Novych Vokovicich, 254/4, Prague Czech Republic",7123725
+132,Kastan,"V Kruhu 220/2, Prague Czech Republic",4767654
+133,Samota,"Osamocena 192/8, Prague 160 00 Czech Republic",17848151
+134,Isai Ramen Bistro,"Krenova 438/9 Praha 6, Prague 162 00 Czech Republic",18852385
+135,Casa Nostra,"Krenova 9, Prague Czech Republic",4769006
+136,Binhminh restaurace,"Cilova 303/10, Prague 16200 Czech Republic",14791822
+137,Binh Minh,"Cilova 303/10, Prague 16200 Czech Republic",14971422
+138,Restaurace U Marcanu,"Veleslavinska 25/14, Prague 162 00 Czech Republic",1929713
+139,Samo,"Na Petrinach, 302/42, Prague Czech Republic",7124178
+140,Pho Anh,"Na Rovni 1014/21, Prague 16200 Czech Republic",14791821
+141,Ballon,"Kladenska, 115, Prague Czech Republic",4769151
+142,Bageterie Boulevard Galerie Harfa,"Ceskomoravska 2420/15a, Prague 190 00 Czech Republic",14122459
+143,KFC Harfa,"Ceskomoravska 2420/15a, Prague Czech Republic",5048767
+144,One Cafe,"Ceskomoravska, 2420/15, Prague Czech Republic",7123896
+145,Kyoto Running Sushi,"Ceskomoravska 15, Prague Czech Republic",4769512
+146,Arlington Restaurant,"Kurta Konrada Hotel Arlington, Prague Czech Republic",4768949
+147,ONE Cafe Harfa,"Ceskomoravska 15, Prague 19000 Czech Republic",12839114
+148,Old Armenia,"Lihovarska 1096/6, Prague 19000 Czech Republic",17420599
+149,Tea room Shisha,"Ocelarska 1142/17 Tearoom is in The Yard, Prague 190 00 Czech Republic",10540443
+150,Taste of India,"Lihovarska 1096/6, Prague 19000 Czech Republic",12434426
+151,Esprit,"Lihovarska 8, Prague Czech Republic",4768898
+152,Restaurace Beseder,"Lihovarska 1060/12a Balabenka point, Prague 19000 Czech Republic",19271784
+153,Burger King,"Ceskomoravska, 2420/15A, Prague Czech Republic",7123785
+154,Yuan Zhong Yuan,"Ceskomoravska, 1602/11, Prague Czech Republic",7123906
+155,Felfella,"Ceskomoravska, 2420/15, Prague Czech Republic",4981712
+156,Shi-Sha,"Drahobejlova, 36, Prague Czech Republic",7123302
+157,LIHO12,"Lihovarska 12, Prague 19000 Czech Republic",15073681
+158,Svejk Restaurant U Brazdu,"U svobodarny 1511/18, Prague Czech Republic",2155284
+159,Coffee-inn,"Sokolovksa 264, Prague 19000 Czech Republic",12922095
+160,Svejk restaurant U Brazdu,"Sokolovska 258, Prague Czech Republic",4768072
+161,Everyday Indian Foods,"Novovysocanska 556/26, Prague 19000 Czech Republic",13336402
+162,Na Stare Rane,"Drahobejlova 957/53, Prague 190 00 Czech Republic",4769423
+163,Pizzeria Cerreto,"Sokolovska 195/972 Prague 9, Prague 19000 Czech Republic",3194571
+164,La Maler,"Cihakova 4, Prague Czech Republic",4769537
+165,Snyt Vysocany,"Kovarska 16, Prague Czech Republic",11640551
+166,Vinny Senk,"Drahobejlova 1692/59, Prague 19000 Czech Republic",18930284
+167,Bentley Bar,"Drahobejlova 957/53, Prague Czech Republic",17635759
+168,Steak restaurant Aroma,"Malletova 1141/4, Prague 19000 Czech Republic",10288709
+169,Restaurant Galerie Praha,"Malletova 1141/4, Prague 19000 Czech Republic",10288706
+170,Music City Point,"Ocelarska 39 in the 1. flor of musician store Music City, Prague 190 00 Czech Republic",12875677
+171,SEZIO,"Malletova 2350/6, Prague Czech Republic",3329912
+172,Rabbit in The Radio,"Krizikova 65a, Prague 18000 Czech Republic",7734004
+173,Ngo restaurant,"Krizikova 180/28, Prague 18600 Czech Republic",17594235
+174,Di CASA Ristorante,"Krizikova 28, Prague 190 00 Czech Republic",10481691
+175,Olive,"Krizikova 213/44, Prague Czech Republic",4769003
+176,Red Hot Chilli,"Krizikova 67/70 Praha 8 - Karlín, Prague 186 00 Czech Republic",7124015
+177,Kavarna Za Zrcadlem,"Pernerova 31A, Prague 186 00 Czech Republic",12957129
+178,Charleston,"Krizikova 55, Prague 180 00 Czech Republic",787792
+179,Modry Beranek,"Thamova 13, Prague Czech Republic",4767917
+180,Sanduga,"Karlinske namEsti 238/6, Prague 18600 Czech Republic",19503575
+181,Cihelna La Familia,"Krizikova 26 Karlin, Prague Czech Republic",1141090
+182,Salanda,"Thamova 166/18, Prague 18600 Czech Republic",12006041
+183,SANDUGA,"Karlinske nam. 238/6, Prague 18600 Czech Republic",19647886
+184,Freshtaste,"Thamova 221/7, Prague Czech Republic",4767881
+185,U Cerne Plice,"Karlinske Namesti 4, Prague Praha 8 Czech Republic",1786768
+186,Karlinska vopicka,"Karlinske Nam. 4, Prague Czech Republic",4769088
+187,Restaurace Karlinsky Andel,"Karlinske namesti 217/4, Prague 186 00 Czech Republic",7161067
+188,Spojka Karlin,"Pernerova 35, Prague 18000 Czech Republic",17503386
+189,Vegan Life,"Thamova 119/19, Prague 186 00 Czech Republic",14762373
+190,Banh-mi-ba,"Thamova 19 Karlín, Prague 180 00 Czech Republic",13122818
+191,Pizzeria Carllino,"Thamova 117/26 Karlín, Prague 186 00 Czech Republic",1892543
+192,HongKong Karlin,"Thamova 221/7, Prague 18600 Czech Republic",14178170
+193,Passcal,"Thamova, 132/28, Prague Czech Republic",7123553
+194,Viet Pho,"Thamova 30, Prague 186 00 Czech Republic",15675650
+195,Ugo Salaterie,"Thamova 84/23 Praha 8, Prague 186 00 Czech Republic",12640373
+196,Panonia Slovenska Restaurace,"Krizhikova 160/71 Karlin, Metro Krizikova, Prague 186 00 Czech Republic",7287883
+197,Peter's Burger Pub,"Pernerova 32/10, Prague Czech Republic",4768365
+198,Amfora,"Sokolovska 161/71, Prague 186 00 Czech Republic",4174075
+199,Cafe Martin,"Sokolovska, Prague Czech Republic",7123251
+200,Burrito Loco Karlin,"Sokolovska 79/81, Prague 18600 Czech Republic",18316701
+201,Restaurant Karlinsky Mlyn,"Sokolovska 67, Prague 186 00 Czech Republic",3914491
+202,Rozvoj,"Jichinska 1073, Mlada Boleslav 293 01 Czech Republic",4769154
+203,Restaurace StEpanka,"Na CelnE 885, Mlada Boleslav 293 01 Czech Republic",13511738
+204,U Smaku,"Taborska 849, Mlada Boleslav 293 01 Czech Republic",4768075
+205,Restaurace Na Sidlisti 1962,"Benesova 644, Kolin 280 02 Czech Republic",4769642
+206,CESKA KORUNA,"Slovenska, Kolin 280 02 Czech Republic",4768094
+207,Cukrarna Poctivka,"Zborovska 488, Kolin 28002 Czech Republic",12589975
+208,Tatra,"Prazhska 442, Kolin 280 02 Czech Republic",4768299
+209,Hotel Theresia,"Na Petrine 991, Kolin 280 02 Czech Republic",4768653
+210,Villa Romantica,"Zborovska 600, Kolin 280 02 Czech Republic",4767480
+211,Pension a Restaurace Harmonie,"Kmochova 569, Kolin 280 02 Czech Republic",4769054
+212,Golden India,"Kmochova 569, Kolin 82002 Czech Republic",12913949
+213,Valentina Caffe,"ul. Kmochova 569 Next to Harmonie Pension, Kolin 28002 Czech Republic",15360732
+214,Dolce Vita,"Politickych veznu 44, Kolin 280 02 Czech Republic",4768340
+215,Restaurace Vaclavka,"Obecni dvur 79, Kolin Czech Republic",12933160
+216,Steak land,"Na Hradbach 123, Kolin 280 02 Czech Republic",4768677
+217,Dolce Vita,"Na Hradbach 124, Kolin 280 02 Czech Republic",4758892
+218,Mona Liza,"Legerova 20, Kolin 280 02 Czech Republic",4768991
+219,Hong Kong,"Chelcickeho 562, Roztoky 252 63 Czech Republic",17629489
+220,Restaurace Obecni dum,"Legerova 30, Kolin 280 02 Czech Republic",4768925
+221,Cafe Interier Tradice 1894,"Kourimska 10, Kolin 28002 Czech Republic",11926042
+222,Cafe Kristian,"Kourimska 9, Kolin Czech Republic",12549382
+223,Restaurant Lavande,"Kourimska 9/a, Kolin 280 02 Czech Republic",10161396
+224,Seminarni Hotel Akademie Nahac Restaurant,"Chocerady 277, Chocerady 257 24 Czech Republic",4769489
+225,Restaurace u Kostela,"NamEsti Dr. Tyrse 6, Cechtice Czech Republic",13543777
+226,Na Nahonu,"Na Nahonu 46, Beroun 266 01 Czech Republic",4768685
+227,Jakoby Bistro,"Slapska 131, Beroun 26601 Czech Republic",14004429
+228,Berounsky Medved,"Tyrshova 135, Beroun 266 01 Czech Republic",3544286
+229,ISTRA Restaurant,"Slapska 130, Beroun 266 01 Czech Republic",9858079
+230,Pomodoro,"Pivovarska 105, Beroun Czech Republic",13915402
+231,ISTRA vinny bar,"Slapska 191 Centrum, Beroun 266 01 Czech Republic",10033161
+232,Cocktail Bar Klepacek,"Pivovarska 103/7, Beroun 266 01 Czech Republic",4768370
+233,Ham Ham Bageterie,"Hornohradebni 162/4, Beroun 266 01 Czech Republic",5048752
+234,Na Baste,"Hornohradebni 98/3 Centrum, Beroun 266 01 Czech Republic",4769277
+235,Na Ostrove,"Na Ostrove 816, Beroun 266 01 Czech Republic",4768659
+236,Horkej Brambor,"Plzenska 27, Beroun 26601 Czech Republic",16866518
+237,Mr. Jack,"Plzenska 27, Beroun 26601 Czech Republic",16917112
+238,Ma ucta,"Plzenska 28, Beroun 26601 Czech Republic",15011160
+239,La Paz Mexican Restaurant,"Na Prikope 1/6, Beroun 266 01 Czech Republic",9753732
+240,Hotel Venedik,"Na PrikopE 11, Beroun 26601 Czech Republic",10288786
+241,Restaurace Alena,"Husovo nam. 175/1, Beroun 266 01 Czech Republic",7343108
+242,Stastna koza - Barevny bufet,"Husovo namesti 41, Beroun 266 01 Czech Republic",10476264
+243,Stastna kavarna,"Ladova, Prague Czech Republic",11959356
+244,Koza Roza Restaurant,"Politickych veznu 153/21, Beroun 266 01 Czech Republic",8372030
+245,Stastna Koza - Barevny Bufet,"Husovo Namesti 41, Beroun 26601 Czech Republic",12363119
+246,Kozlovna Beroun Bar and Restaurant,"Na OstrovE 3, Beroun 266 01 Czech Republic",9754358
+247,Rambajs Cafe Park,"NamEsti Joachima Barranda, Beroun 26601 Czech Republic",17600983
+248,Cafe Creperie Strakaty Kralik,"Na Ostrove 9, Beroun 266 01 Czech Republic",10465131
+249,Restaurant U Hradeb,"Zamecnicka 11/1, Beroun Czech Republic",14782829
+250,Blackdog Bar & Grill,"Ceska 140, Beroun 266 01 Czech Republic",2706313
+251,Namastaey india,"Politickchy veznu 200, Beroun Czech Republic",12327225
+252,Pizzerie Domino,"Zborovske nabrezhi 48/25, Beroun 266 01 Czech Republic",4767487
+253,Jina Kava,"U Kasaren 193/192, Beroun 266 01 Czech Republic",4767758
+254,ISTRA point V zahradE,"Plzenska 1927 Vchod z ulice Šafaříkova, Beroun 26601 Czech Republic",19112794
+255,American Bar U Slunce,"Plzenska 26/6, Beroun 266 01 Czech Republic",4768331
+256,OXO Bubble Tea,"Radcicka 2, Pilsen 301 00 Czech Republic",17457154
+257,KFC Plzen Plaza,"Radcicka 2, Pilsen Czech Republic",4797958
+258,Restaurace ZA OPONOU,"Palackeho namesti 30 Nove Divadlo building, Pilsen 301 00 Czech Republic",7212316
+259,Atlantic,"Kollarova 7, Pilsen Czech Republic",4798007
+260,Pizzerie Plzen Massimo,"Kollarova 531/7, Pilsen 301 00 Czech Republic",10392498
+261,Start UP coffee,"Palackeho 337/14, Pilsen Czech Republic",17637045
+262,Cajovna U Pekla,"Sady PEtatricatniku 29, Pilsen 30100 Czech Republic",17420868
+263,Wallis,"Palackeho 11, Pilsen Czech Republic",4797978
+264,Kalikovsky mlyn,"Radcicka 40, Pilsen Czech Republic",4797966
+265,San Marino,"Palackeho tr. 9, Pilsen Czech Republic",1076856
+266,Hotel Plzen,"Budilova 15, Pilsen Czech Republic",4798017
+267,Vintage Cafe,"Palackeho 389/7 Vedle Kuchyni Gorenje, Pilsen 301 00 Czech Republic",8509682
+268,Zach's Pub,"Palackeho nam. 2 naproti parkovacímu domu Plaza, Pilsen 301 16 Czech Republic",11949648
+269,U Pasaka,"PodEbradova 12, Pilsen Czech Republic",10748178
+270,Antalya Kebab & Sisha Bar,"Palackeho 70/1, Pilsen 30100 Czech Republic",14598040
+271,U Namornika Restaurant,"Premyslova 54 Hotel U Namornika, Pilsen Czech Republic",4797980
+272,Bistro Alfa,"Divadelni 3, Pilsen Czech Republic",4798015
+273,Inkognito,"Husova 431/24, Pilsen 301 00 Czech Republic",7187941
+274,New Day,"Riegrova 13, Pilsen 30100 Czech Republic",10478856
+275,Delish,"Riegrova 223/20, Pilsen 301 00 Czech Republic",8594830
+276,U Kratkych,"Husova 22, Pilsen Czech Republic",4798009
+277,StoryCafe,"Riegrova 18, Pilsen 30100 Czech Republic",11890678
+278,Pizzerie v Solni,"Solni 242/9, Pilsen 301 00 Czech Republic",5427081
+279,Denni Bar & Pizzerie,"Solni 9, Pilsen Czech Republic",1099646
+280,Ngon Ngon,"Solni 9, Pilsen 33008 Czech Republic",8647775
+281,U Senku,"Sedlackova 16, Pilsen 301 00 Czech Republic",4797963
+282,Hladove okno - burger bistro,"Veleslavinova 10/15, Pilsen 301 00 Czech Republic",13958296
+283,Svejk Restaurant U Petatricatniku,"Riegrova 227/12 Náměstí republiky Plzeň/main SQUARE, Pilsen 301 00 Czech Republic",7358943
+284,Pizzeria Riegrovka,"Riegrova 208/5, Pilsen 301 00 Czech Republic",4797975
+285,Galerie Paletka Obcerstveni,"Husova 2, Pilsen Czech Republic",4798003
+286,Staromestka,"Pilsner Urquell Original Restaurant Staromestske Nameste 549/19, Prague Czech Republic",17541809
+287,Pilsner Urquell Original Restaurant,"Terminal 1 Pier A Prague Airport, Prague Czech Republic",5530184
+288,Marche' Movenpick Prag,"Aviaticka 1017/2, Prague 16100 Czech Republic",17385809
+289,Costa Coffee,"Aviaticka Vaclav Havel Airport, Terminal 2C, Prague 16000 Czech Republic",15181184

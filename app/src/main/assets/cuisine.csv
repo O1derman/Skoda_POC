@@ -1,0 +1,55 @@
+_id,name,tripadvisor_id
+170,Bar,10640
+171,Cafe,10642
+172,European,10654
+173,Pub,10670
+174,Czech,10738
+175,Fast Food,10646
+176,American,9908
+177,Italian,4617
+178,French,5086
+179,Dutch,10627
+180,Asian,10659
+181,Indian,10346
+182,Vegetarian Friendly,10665
+183,Vegan Options,10697
+184,Gluten Free Options,10992
+185,Central European,10746
+186,Pizza,10641
+187,Mediterranean,10649
+188,International,10648
+189,Eastern European,10742
+190,Armenian,10766
+191,Chinese,5379
+192,Romanian,10775
+193,Diner,10676
+194,Japanese,5473
+195,Thai,10660
+196,Vietnamese,10675
+197,Healthy,10679
+198,Deli,10666
+199,Soups,10700
+200,Sushi,10653
+201,Brew Pub,10621
+202,Gastropub,10683
+203,Barbecue,10651
+204,Grill,10668
+205,Seafood,10643
+206,Japanese Fusion,21367
+207,Arabic,11744
+208,Beer restaurants,21355
+209,Greek,10664
+210,Middle Eastern,10687
+211,Turkish,10663
+212,Halal,10751
+213,Austrian,10620
+214,Croatian,10743
+215,Steakhouse,10345
+216,Contemporary,10669
+217,Fusion,10671
+218,Indonesian,10690
+219,Malaysian,10741
+220,Mexican,5110
+221,Pakistani,10748
+222,Wine Bar,10682
+223,Street Food,10686
